@@ -100,7 +100,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a 
-              href="https://wa.me/491792305389"
+              href="https://wa.me/4901792305389"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-pink-600 text-white font-semibold rounded-full hover:bg-pink-700 transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -108,7 +108,7 @@ const Hero = () => {
               Termin über WhatsApp
             </a>
             <a 
-              href="tel:+491792305389"
+              href="tel:+4901792305389"
               className="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-gray-900 transition-all duration-300 transform hover:scale-105"
             >
               Jetzt anrufen

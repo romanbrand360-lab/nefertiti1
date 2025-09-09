@@ -190,7 +190,7 @@ const Training = () => {
                   {/* CTA Buttons */}
                   <div className="flex flex-col sm:flex-row gap-3">
                     <a 
-                      href="https://wa.me/4917923053889"
+                      href="https://wa.me/4901792305389"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors"
@@ -199,7 +199,7 @@ const Training = () => {
                       WhatsApp Beratung
                     </a>
                     <a 
-                      href="tel:+4917923053889"
+                      href="tel:+4901792305389"
                       className="flex items-center justify-center px-6 py-3 bg-pink-600 text-white font-semibold rounded-lg hover:bg-pink-700 transition-colors"
                     >
                       <Phone className="w-5 h-5 mr-2" />
@@ -247,7 +247,7 @@ const Training = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://wa.me/491792305389"
+              href="https://wa.me/4901792305389"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-white text-pink-600 font-bold rounded-lg hover:bg-gray-100 transition-colors transform hover:scale-105"
@@ -256,11 +256,11 @@ const Training = () => {
               Kostenlose WhatsApp Beratung
             </a>
             <a 
-              href="tel:+491792305389"
+              href="tel:+4901792305389"
               className="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white font-bold rounded-lg hover:bg-white hover:text-pink-600 transition-colors transform hover:scale-105"
             >
               <Phone className="w-5 h-5 mr-2" />
-              Sofort anrufen: +49 179 2305389
+              Sofort anrufen: +49 01792305389
             </a>
           </div>
         </div>

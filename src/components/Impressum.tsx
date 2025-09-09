@@ -36,7 +36,7 @@ const Impressum = () => {
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Kontakt</h3>
             <div className="mb-6">
               <p className="text-gray-700 leading-relaxed">
-                Telefon: <a href="tel:+491792305389" className="text-pink-600 hover:text-pink-700">0179 2305389</a><br />
+                Telefon: <a href="tel:+4901792305389" className="text-pink-600 hover:text-pink-700">01792305389</a><br />
                 E-Mail: <a href="mailto:sawsan.shaban23@gmail.com" className="text-pink-600 hover:text-pink-700">sawsan.shaban23@gmail.com</a>
               </p>
             </div>

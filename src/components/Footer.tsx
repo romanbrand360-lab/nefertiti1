@@ -92,10 +92,10 @@ const Footer = () => {
               <div className="flex items-center">
                 <Phone className="w-4 h-4 mr-3 text-pink-600 flex-shrink-0" />
                 <a 
-                  href="tel:+491792305389" 
+                  href="tel:+4901792305389" 
                   className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
-                  +49 179 2305389
+                  +49 01792305389
                 </a>
               </div>
               <div className="flex items-center">
@@ -111,7 +111,7 @@ const Footer = () => {
 
             <div className="mt-6 space-y-2">
               <a 
-                href="https://wa.me/491792305389"
+                href="https://wa.me/4901792305389"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center w-full px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition-colors text-sm"
@@ -120,7 +120,7 @@ const Footer = () => {
                 WhatsApp
               </a>
               <a 
-                href="tel:+491792305389"
+                href="tel:+4901792305389"
                 className="flex items-center w-full px-3 py-2 bg-pink-600 text-white rounded hover:bg-pink-700 transition-colors text-sm"
               >
                 <Phone className="w-4 h-4 mr-2" />

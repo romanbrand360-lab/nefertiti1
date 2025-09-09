@@ -40,10 +40,10 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Telefon</h4>
                     <a 
-                      href="tel:+491792305389" 
+                      href="tel:+4901792305389" 
                       className="text-gray-600 hover:text-pink-600 transition-colors"
                     >
-                      +49 179 2305389
+                      +49 01792305389
                     </a>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ const Contact = () => {
               <h4 className="font-semibold text-gray-900 mb-4">Schnell einen Termin vereinbaren</h4>
               <div className="space-y-3">
                 <a 
-                  href="https://wa.me/491792305389"
+                  href="https://wa.me/4901792305389"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
@@ -93,7 +93,7 @@ const Contact = () => {
                   Termin über WhatsApp
                 </a>
                 <a 
-                  href="tel:+491792305389"
+                  href="tel:+4901792305389"
                   className="flex items-center w-full px-4 py-3 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition-colors"
                 >
                   <Phone className="w-5 h-5 mr-3" />

@@ -94,7 +94,7 @@ const Header = () => {
           {/* Contact Buttons */}
           <div className="hidden md:flex items-center space-x-3">
             <a 
-              href="https://wa.me/491792305389"
+              href="https://wa.me/4901792305389"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors text-sm font-medium"
@@ -103,7 +103,7 @@ const Header = () => {
               WhatsApp
             </a>
             <a 
-              href="tel:+491792305389"
+              href="tel:+4901792305389"
               className="flex items-center px-4 py-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition-colors text-sm font-medium"
             >
               <Phone className="w-4 h-4 mr-2" />
@@ -170,7 +170,7 @@ const Header = () => {
               {/* Mobile Contact Buttons */}
               <div className="flex flex-col space-y-2 pt-4 border-t border-gray-200">
                 <a 
-                  href="https://wa.me/491792305389"
+                  href="https://wa.me/4901792305389"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors text-sm font-medium"
@@ -180,7 +180,7 @@ const Header = () => {
                   WhatsApp Termin
                 </a>
                 <a 
-                  href="tel:+491792305389"
+                  href="tel:+4901792305389"
                   className="flex items-center justify-center px-4 py-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition-colors text-sm font-medium"
                   onClick={closeMenu}
                 >
