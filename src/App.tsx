@@ -7,7 +7,6 @@ import About from './components/About';
 import Blog from './components/Blog';
 import Services from './components/Services';
 import Training from './components/Training';
-import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BlogPost from './components/BlogPost';
@@ -21,7 +20,6 @@ const HomePage = () => (
     <Blog />
     <Services />
     <Training />
-    <Gallery />
     <Contact />
   </>
 );

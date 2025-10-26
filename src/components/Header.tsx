@@ -78,12 +78,6 @@ const Header = () => {
               Schulungen
             </button>
             <button 
-              onClick={() => scrollToSection('gallery')}
-              className="text-gray-700 hover:text-pink-600 transition-colors font-medium"
-            >
-              Galerie
-            </button>
-            <button 
               onClick={() => scrollToSection('contact')}
               className="text-gray-700 hover:text-pink-600 transition-colors font-medium"
             >
@@ -153,12 +147,6 @@ const Header = () => {
                 className="text-left text-gray-700 hover:text-pink-600 transition-colors font-medium py-2"
               >
                 Schulungen
-              </button>
-              <button 
-                onClick={() => scrollToSection('gallery')}
-                className="text-left text-gray-700 hover:text-pink-600 transition-colors font-medium py-2"
-              >
-                Galerie
               </button>
               <button 
                 onClick={() => scrollToSection('contact')}
